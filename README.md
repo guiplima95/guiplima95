@@ -6,7 +6,7 @@
 I'm a {backend developer} 
 
 <p align="left">
-  Skills: <strong>C#, SQL, NOSQL, ASP.NET, ASP.NET CORE, WEB API, Javascript, Typescript, NodeJS, Angular and React.</strong>
+  Skills: <strong>C#, SQL, NOSQL, ASP.NET, ASP.NET CORE, MICROSERVICES, ASYNC/AWAIT, AZURE, WEB API, Javascript, Typescript, NodeJS, Angular and VueJS.</strong>
 </p>
 
 
