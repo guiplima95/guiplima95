@@ -1,4 +1,4 @@
-<img src="https://image.freepik.com/free-vector/engineers-creating-robot-humanoid-speaking-hello-men-with-laptop-magnifier-cartoon-illustration_74855-14358.jpg" min-width="600px" max-width="400px" width="400px" align="right" alt="Computador lima">
+<img src="https://cdn-media-1.freecodecamp.org/images/0*DptwthtMZHQ1fi4x" min-width="600px" max-width="400px" width="400px" align="right" alt="Computador lima">
 
 
 # Hi, I'm Guilherme Lima! :D
