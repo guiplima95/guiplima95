@@ -1,9 +1,17 @@
 # Hi, I'm Guilherme Lima! :D
 
-I'm a {backend developer} 
+I'm a {Softwaree Engineer} 
 
 <p align="left">
-  Skills: <strong>C#, SQL, NOSQL, ASP.NET, ASP.NET CORE, MICROSERVICES, AZURE, ASYNC/AWAIT, AZURE, WEB API, Javascript, Typescript, Angular and VueJS.</strong>
+  As a .NET Developer, focusing on the backend. I like to develop and maintain my codes always following good performance and the best practices.
+
+I have been working in squads model using agile methodologies. Building services and working with some important concepts and technologies:
+
+✔ Main Skills:
+C# | .NET Core | SQL Server | NoSQL | Azure | Javascript | Angular | Microservices | Scrum | Kanban
+
+✔ Highlights patterns:
+Clean Architecture, CQRS, SOLID, Domain-Driven Design (DDD), Event-Driven, Event Integration, Event Sourcing, Microservices, TDD always creating automated testings (unit testing, functional tests and integration testing)..</strong>
 </p>
 
 
