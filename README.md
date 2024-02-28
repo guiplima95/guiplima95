@@ -1,6 +1,3 @@
-<img src="https://www.phantomfreelance.com/wp-content/uploads/2019/03/where-to-hire-web-developers.jpg" min-width="600px" max-width="400px" width="400px" align="right" alt="Computador lima">
-
-
 # Hi, I'm Guilherme Lima! :D
 
 I'm a {backend developer} 
